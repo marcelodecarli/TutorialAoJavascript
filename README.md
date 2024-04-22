@@ -44,7 +44,7 @@ __Exemplo de declaração de variável do tipo string utilizando let:__
  ```
 let name = "Marcelo"
  ```
----
+
 __Exemplo de declaração de variável do tipo number utilizando let:__
 
 Nesse exemplo temos como nome da variável **numero** e o valor atribuida a ela **10**
@@ -52,22 +52,23 @@ Nesse exemplo temos como nome da variável **numero** e o valor atribuida a ela 
  ```
 let numero = 10
  ```
+---
 - Const: temos a declaração de variáveis que são constantes. Isso mesmo, você não entende errado, são variáveis que atribuimos valores que __não__ poderão ser alterados posteriormente.
 
-  __Exemplo de declaração de variável do tipo string utilizando let:__
+     __Exemplo de declaração de variável do tipo string utilizando const:__
 
  Nesse exemplo temos como nome da constante **fruta** e o valor atribuida a ela **"laranja"**
  ```
-let fruta = "laranja"
+const fruta = "laranja"
  ```
 __Exemplo de declaração de variável do tipo number utilizando let:__
 
 Nesse exemplo temos como nome da constante **numero** e o valor atribuida a ela **10**
 
  ```
-let numero = 1250
+const numero = 1250
  ```
-
+---
 - Números:
 Números são usados para representar valores numéricos e podem ser inteiros ou de ponto flutuante.
 
