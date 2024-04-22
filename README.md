@@ -80,8 +80,14 @@ const numero = 321.50 // com ponto flutuante
 ### Valores booleanos:
 Valores booleanos podem ser true ou false e são usados em expressões lógicas e estruturas de controle.
 
+```
+let estaFrio = true
+let estaQuente = false
+```
+
 ### Undefined:
 Undefined é usado para variáveis que foram declaradas, mas não possuem um valor atribuído.
+
 
 ### Null:
 Null é usado para indicar a ausência de valor.
