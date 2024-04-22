@@ -13,6 +13,16 @@ Javascript é uma linguagem de programação, largamente utilizada em aplicçõe
     node --version
    ```
   Caso não tenha instalado o Node.js pode baixar no link: https://nodejs.org/en/download/
-   
-3. 
+  
+2. Em seguida devemos verificar se temos instalada a IDE mais conhecida atualmente é o Visual Studio Code.
+   ```
+   code --version
+   ```
+     Caso não tenha instalado o Node.js pode baixar no link:
+   https://code.visualstudio.com/Download
+
 4. 
+
+   
+5. 
+6. 
