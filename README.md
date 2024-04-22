@@ -12,7 +12,7 @@ Javascript é uma linguagem de programação, largamente utilizada em aplicçõe
    ```
     node --version
    ```
-  [Caso não tenha instalado o Node.js pode baixar no link:] (https://nodejs.org/en/download/)
+  Caso não tenha instalado o Node.js pode baixar no link:https://nodejs.org/en/download/
    
 3. 
 4. 
