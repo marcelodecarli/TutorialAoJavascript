@@ -31,11 +31,17 @@ Temos como sintaxe básica os itens abaixo:
 - Estruturas de repetição.
 
 ## Variáveis:
-Temos como variáveis as seguintes opções: 
+Temos como tipo de variáveis mais utilizadas: 
 - Let: Temos a declaração nessa variável dados que podemos alterar posteriormente;
+
 __Exemplo de declaração de variável do tipo string utilizando let:__
+ Nesse exemplo temos como nome da variável **name** e o valor atribuida a ela **"Marcelo"**
+ ```
+let name = "Marcelo"
+ ```
+__Exemplo de declaração de variável do tipo number utilizando let:__
 
  ```
-let nome = "Marcelo"
+let numero = 10
  ```
 - 
