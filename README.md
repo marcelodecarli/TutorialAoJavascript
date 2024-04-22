@@ -8,8 +8,11 @@ Javascript é uma linguagem de programação, largamente utilizada em aplicçõe
 
 ## Configuração do ambiente:
 
-1. Primeiro devemos verificar se temos instalado no computador o Node.js
-   Para essa verificação no windows utilizamos no terminal de comando (CMD) o comando:
+1. Primeiro devemos verificar se temos instalado no computador o Node.js. Para essa verificação no windows utilizamos no terminal de comando (CMD) o comando:
    ```
     node --version
    ```
+  [Caso não tenha instalado o Node.js pode baixar no link:] (https://nodejs.org/en/download/)
+   
+3. 
+4. 
