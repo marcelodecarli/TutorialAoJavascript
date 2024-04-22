@@ -18,11 +18,7 @@ Javascript é uma linguagem de programação, largamente utilizada em aplicçõe
    ```
    code --version
    ```
-     Caso não tenha instalado o Node.js pode baixar no link:
+     Caso não tenha instalado o Node.js pode baixar no link e escolha seu sistema operacional:
    https://code.visualstudio.com/Download
 
-4. 
-
-   
-5. 
-6. 
+## Sintaxe básica:
