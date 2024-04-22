@@ -25,13 +25,16 @@ Javascript é uma linguagem de programação, largamente utilizada em aplicçõe
 ## Sintaxe básica:
 
 Temos como sintaxe básica os itens abaixo:
+-Tipos de dados;
 - Declaração de variáveis;
 - Operadores;
 - Estruturas condicionais;
 - Estruturas de repetição.
 
-## Variáveis:
-Temos como tipo de variáveis mais utilizadas: 
+## Tipos de dados:
+### Strings:
+Strings são usadas para representar texto e devem ser declaradas entre aspas simples ou duplas.
+
 - Let: Temos a declaração nessa variável dados que podemos alterar posteriormente;
 
 __Exemplo de declaração de variável do tipo string utilizando let:__
@@ -62,3 +65,27 @@ Nesse exemplo temos como nome da constante **numero** e o valor atribuida a ela 
  ```
 let numero = 1250
  ```
+
+- Números:
+Números são usados para representar valores numéricos e podem ser inteiros ou de ponto flutuante.
+
+- Valores booleanos:
+Valores booleanos podem ser true ou false e são usados em expressões lógicas e estruturas de controle.
+
+- Undefined:
+Undefined é usado para variáveis que foram declaradas, mas não possuem um valor atribuído.
+
+- Null:
+Null é usado para indicar a ausência de valor.
+
+- Objetos:
+Objetos são estruturas de dados com múltiplas propriedades e podem ser acessados utilizando a sintaxe de ponto ou de colchetes.
+
+- Arrays:
+Arrays são usados para armazenar coleções de valores em uma única variável.
+
+- Funções:
+Funções são blocos de código que podem ser reutilizados e executados quando necessário.
+
+
+
