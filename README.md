@@ -14,7 +14,8 @@ Javascript é uma linguagem de programação, largamente utilizada em aplicçõe
    ```
   Caso não tenha instalado o Node.js pode baixar no link: https://nodejs.org/en/download/
   
-2. Em seguida devemos verificar se temos instalada a IDE mais conhecida atualmente é o Visual Studio Code.
+2. Em seguida devemos verificar se temos instalada a IDE mais conhecida atualmente é o Visual Studio Code. Para essa verificação no windows utilizamos no terminal de comando (CMD) o comando:
+
    ```
    code --version
    ```
@@ -22,3 +23,19 @@ Javascript é uma linguagem de programação, largamente utilizada em aplicçõe
    https://code.visualstudio.com/Download
 
 ## Sintaxe básica:
+
+Temos como sintaxe básica os itens abaixo:
+- Declaração de variáveis;
+- Operadores;
+- Estruturas condicionais;
+- Estruturas de repetição.
+
+## Variáveis:
+Temos como variáveis as seguintes opções: 
+- Let: Temos a declaração nessa variável dados que podemos alterar posteriormente;
+__Exemplo de declaração de variável do tipo string utilizando let:__
+
+ ```
+let nome = "Marcelo"
+ ```
+- 
