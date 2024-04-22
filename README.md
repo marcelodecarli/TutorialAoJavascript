@@ -41,18 +41,11 @@ Strings são usadas para representar texto e devem ser declaradas entre aspas si
 __Exemplo de declaração de variável do tipo string utilizando let:__
 
  Nesse exemplo temos como nome da variável **name** e o valor atribuida a ela **"Marcelo"**
+ 
  ```
 let name = "Marcelo"
  ```
 
-__Exemplo de declaração de variável do tipo number utilizando let:__
-
-Nesse exemplo temos como nome da variável **numero** e o valor atribuida a ela **10**
-
- ```
-let numero = 10
- ```
----
 - Const: temos a declaração de variáveis que são constantes. Isso mesmo, você não entende errado, são variáveis que atribuimos valores que __não__ poderão ser alterados posteriormente.
 
      __Exemplo de declaração de variável do tipo string utilizando const:__
@@ -61,7 +54,20 @@ let numero = 10
  ```
 const fruta = "laranja"
  ```
+---
+
+### Números:
+Números são usados para representar valores numéricos e podem ser inteiros ou de ponto flutuante.
+
 __Exemplo de declaração de variável do tipo number utilizando let:__
+
+Nesse exemplo temos como nome da variável **numero** e o valor atribuida a ela **10**
+
+ ```
+let numero = 10
+ ```
+
+__Exemplo de declaração de variável do tipo number utilizando const:__
 
 Nesse exemplo temos como nome da constante **numero** e o valor atribuida a ela **10**
 
@@ -69,8 +75,6 @@ Nesse exemplo temos como nome da constante **numero** e o valor atribuida a ela 
 const numero = 1250
  ```
 ---
-- Números:
-Números são usados para representar valores numéricos e podem ser inteiros ou de ponto flutuante.
 
 ### Valores booleanos:
 Valores booleanos podem ser true ou false e são usados em expressões lógicas e estruturas de controle.
