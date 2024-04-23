@@ -119,6 +119,19 @@ console.log(pessoa) // {nome: 'Marcelo', idade: 33}
 
 ### Arrays:
 Arrays são usados para armazenar coleções de valores em uma única variável.
+ ```
+let lista = [1, 2, 'testando', 6, 'laranja']
+console.log(lista) // [1, 2, 'testando', 6, 'laranja']
+```
 
 ### Funções:
 Funções são blocos de código que podem ser reutilizados e executados quando necessário.
+
+function nomeDaFuncao(atributo) {
+   console.log(atributo)
+   }
+
+console.log(nomeDaFuncao('Marcelo')); //Marcelo
+
+
+
