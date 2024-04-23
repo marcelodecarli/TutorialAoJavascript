@@ -133,7 +133,19 @@ function nomeDaFuncao(atributo) {
 
 console.log(nomeDaFuncao('Marcelo')); //Marcelo
 ```
+---
+### Operadores:
+Os operadores são usados para realizar operações em variáveis e valores. Os operadores aritméticos mais comuns em JavaScript são a adição `(+)`, subtração `(-)`, multiplicação `(*)`, divisão `(/)` e módulo `(%)`. Há também operadores de comparação `(==, !=, ===, !==, <, >, <=, >=)` e operadores lógicos `(&&, ||, !)`.
 
+Exemplo:
+```
+var x = 5;
+var y = 10;
+var z = x + y; // soma
+var w = x * y; // multiplicação
+var a = x == y; // comparação
+var b = x && y; // operador lógico
+```
 
-
+## Estruturas de controle:
 
