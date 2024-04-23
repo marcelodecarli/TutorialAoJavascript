@@ -90,7 +90,7 @@ Valores booleanos podem ser true ou false e são usados em expressões lógicas 
 let estaFrio = true
 let estaQuente = false
 ```
-
+---
 ### Undefined:
 Undefined é usado para variáveis que foram declaradas, mas não possuem um valor atribuído.
 
@@ -98,14 +98,14 @@ Undefined é usado para variáveis que foram declaradas, mas não possuem um val
 let nome; 
 console.log(nome); // undefined
 ```
-
+---
 ### Null:
 Null é usado para indicar a ausência de valor.
 
 ```
 let variavel = null; // null
 ```
-
+---
 ### Objetos:
 Objetos são estruturas de dados com múltiplas propriedades e podem ser acessados utilizando a sintaxe de ponto ou de colchetes.
 
@@ -116,14 +116,14 @@ let pessoa = {
 };
 console.log(pessoa) // {nome: 'Marcelo', idade: 33}
 ```
-
+---
 ### Arrays:
 Arrays são usados para armazenar coleções de valores em uma única variável.
  ```
 let lista = [1, 2, 'testando', 6, 'laranja']
 console.log(lista) // [1, 2, 'testando', 6, 'laranja']
 ```
-
+---
 ### Funções:
 Funções são blocos de código que podem ser reutilizados e executados quando necessário.
 ```
