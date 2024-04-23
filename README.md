@@ -1,4 +1,5 @@
 # Tutorial ao Javascript
+![Imagem](https://th.bing.com/th/id/OIP.xiDj73t-bBDLZJ_GUlDnbwFNC7?rs=1&pid=ImgDetMain)
 
 ## O que iremos aprender?
 Aqui iremos aprender sobre a linguagem de programação Javascript.
