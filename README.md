@@ -96,15 +96,26 @@ Undefined é usado para variáveis que foram declaradas, mas não possuem um val
 
 ```
 let nome; 
-        console.log(nome); // undefined
+console.log(nome); // undefined
 ```
-
 
 ### Null:
 Null é usado para indicar a ausência de valor.
 
+```
+let variavel = null; // null
+```
+
 ### Objetos:
 Objetos são estruturas de dados com múltiplas propriedades e podem ser acessados utilizando a sintaxe de ponto ou de colchetes.
+
+```
+let pessoa = {
+  nome: 'Marcelo',
+  idade: 33
+};
+console.log(pessoa) // {nome: 'Marcelo', idade: 33}
+```
 
 ### Arrays:
 Arrays são usados para armazenar coleções de valores em uma única variável.
