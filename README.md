@@ -156,17 +156,39 @@ Exemplo:
 for (let i = 0; i < 10; i++) {
   console.log(i);
 }
-
+```
+---
+```
 let i = 0;
 while (i < 10) {
   console.log(i);
   i++;
 }
-
+```
+---
+```
 let i = 0;
 do {
   console.log(i);
   i++;
 } while (i < 10);
 ```
+---
+### Estruturas condicionais:
 
+A princípio, as estruturas condicionais são usadas para tomar decisões em um programa. A estrutura condicional mais comum é o “if”, que executa um bloco de código se uma condição for verdadeira. Sendo assim, há também o “else if” e o “else”, que são usados para executar blocos de código alternativos se a primeira condição não for atendida.
+
+Exemplo:
+
+```
+var x = 5;
+var y = 10;
+if (x < y) {
+  console.log("x é menor que y");
+} else if (x > y) {
+  console.log("x é maior que y");
+} else {
+  console.log("x é igual a y");
+}
+```
+---
