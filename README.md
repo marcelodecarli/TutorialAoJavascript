@@ -139,13 +139,34 @@ Os operadores são usados para realizar operações em variáveis e valores. Os 
 
 Exemplo:
 ```
-var x = 5;
-var y = 10;
-var z = x + y; // soma
-var w = x * y; // multiplicação
-var a = x == y; // comparação
-var b = x && y; // operador lógico
+let x = 5;
+let y = 10;
+let z = x + y; // soma
+let w = x * y; // multiplicação
+let a = x == y; // comparação
+let b = x && y; // operador lógico
 ```
 
-## Estruturas de controle:
+## Estruturas de repetição:
+
+As estruturas de repetição são usadas para repetir um bloco de código várias vezes. Dessa forma a estrutura de repetição mais comum é o “for”, que executa um bloco de código um número específico de vezes. Há também o “while” e o “do-while”, que executam um bloco de código enquanto uma condição for verdadeira.
+
+Exemplo:
+```
+for (let i = 0; i < 10; i++) {
+  console.log(i);
+}
+
+let i = 0;
+while (i < 10) {
+  console.log(i);
+  i++;
+}
+
+let i = 0;
+do {
+  console.log(i);
+  i++;
+} while (i < 10);
+```
 
