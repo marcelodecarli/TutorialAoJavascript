@@ -88,6 +88,11 @@ let estaQuente = false
 ### Undefined:
 Undefined é usado para variáveis que foram declaradas, mas não possuem um valor atribuído.
 
+```
+let nome; 
+        console.log(nome); // undefined
+```
+
 
 ### Null:
 Null é usado para indicar a ausência de valor.
