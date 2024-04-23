@@ -181,8 +181,8 @@ A princípio, as estruturas condicionais são usadas para tomar decisões em um 
 Exemplo:
 
 ```
-var x = 5;
-var y = 10;
+let x = 5;
+let y = 10;
 if (x < y) {
   console.log("x é menor que y");
 } else if (x > y) {
