@@ -138,6 +138,29 @@ console.log(nomeDaFuncao('Marcelo')); //Marcelo
 ### Operadores:
 Os operadores são usados para realizar operações em variáveis e valores. Os operadores aritméticos mais comuns em JavaScript são a adição `(+)`, subtração `(-)`, multiplicação `(*)`, divisão `(/)` e módulo `(%)`. Há também operadores de comparação `(==, !=, ===, !==, <, >, <=, >=)` e operadores lógicos `(&&, ||, !)`.
 
+
+| OPERADOR | --------------- FUNÇÃO --------------- |
+| -------- | -------------------------------------- |
+|     +    |                 ADIÇÃO                 |
+|     -    |                SUBTRAÇÃO               |
+|     *    |               MULTIPLICAÇÃO            |
+|     /    |                 DIVISÃO                |
+|     %    |             OPERADOR MÓDULO            |
+|     ==   |              COMPARA VALORES           |
+|     !=   |  |
+|    ===   |  |
+|    !==   |  |
+|     <    |  |
+|     >    |  |
+|    <=    |  |
+|    >=    |  |
+|    &&    |  |
+|    ||    |  |
+|     !    |  |
+
+
+
+
 Exemplo:
 ```
 let x = 5;
@@ -193,3 +216,12 @@ if (x < y) {
 }
 ```
 ---
+## DOM (Modelo de Objeto de Documento) 
+
+O DOM é uma representação estruturada de documentos. No contexto de páginas da web, o DOM refere-se à representação estruturada de um documento HTML ou XML. Ele fornece uma forma programática de acessar, modificar, adicionar ou remover conteúdo e estrutura de um documento.
+
+Conmo exemplo de árvore temos a imagem a seguir: 
+
+![Imagem]([https://th.bing.com/th/id/OIP.xiDj73t-bBDLZJ_GUlDnbwFNC7?rs=1&pid=ImgDetMain](https://arquivo.devmedia.com.br/artigos/Higor_Medeiros/JSDOM/DocumentObjectLanguage01.jpg))
+
+
