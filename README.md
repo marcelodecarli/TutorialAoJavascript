@@ -44,6 +44,7 @@ __Exemplo de declaração de variável do tipo string utilizando let:__
  
  ```
 let name = "Marcelo"
+console.log(name); // Marcelo
  ```
 
 - Const: temos a declaração de variáveis que são constantes. Isso mesmo, você não entende errado, são variáveis que atribuimos valores que __não__ poderão ser alterados posteriormente.
@@ -53,6 +54,7 @@ let name = "Marcelo"
  Nesse exemplo temos como nome da constante **fruta** e o valor atribuida a ela **"laranja"**
  ```
 const fruta = "laranja"
+console.log(fruta); // laranja
  ```
 ---
 
@@ -65,7 +67,9 @@ __Exemplo de declaração de variável do tipo number utilizando let:__
 - Let: Temos a declaração nessa variável dados que podemos alterar posteriormente;
  ```
 let numero = 10 // inteiro
-let numero = 5.50 // com ponto flutuante
+console.log(numero); // 10
+let number = 5.50 // com ponto flutuante
+console.log(number); // 5.50
  ```
 
 __Exemplo de declaração de variável do tipo number utilizando const:__
@@ -73,7 +77,9 @@ __Exemplo de declaração de variável do tipo number utilizando const:__
 - Const: temos a declaração de variáveis que são constantes. Isso mesmo, você não entende errado, são variáveis que atribuimos valores que __não__ poderão ser alterados posteriormente.
  ```
 const numero = 1250 // inteiro
-const numero = 321.50 // com ponto flutuante
+console.log(numero); // 1250
+const number = 321.50 // com ponto flutuante
+console.log(number); // 321.50
  ```
 ---
 
